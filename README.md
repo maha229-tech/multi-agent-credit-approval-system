@@ -1,5 +1,5 @@
 # multi-agent-credit-approval-system
-Conception et développement d'un système intelligent distribué pour l'évaluation automatisée des demandes de crédit bancaire basé sur une architecture multi-agents avec SPADE. Le système repose sur quatre agents collaboratifs : l'agent Demandeur, l'agent Évaluateur, l'agent File d'attente et l'agent Décisionnaire .
+Design and development of a distributed intelligent system for automated bank credit application evaluation, based on a multi-agent architecture using SPADE. The system relies on four collaborative agents: the Applicant agent, the Evaluator agent, the Queue agent, and the Decision-Maker agent.
 
 
 ## 🚀 How to Run
